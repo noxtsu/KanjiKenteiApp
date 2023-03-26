@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Kanji Kentei Practice Application</string>
+    <string name="top_title">漢字検定準1級</string>
+    <string name="top_button">開始</string>
+    <string name="top_text">練習問題集</string>
+
+    <string name="top_button_leading">読み</string>
+    <string name="top_button_writing">書き</string>
+    <string name="top_button_other">四字熟語・故事など</string>
+    <string name="top_button_config">設定</string>
+
 </resources>
