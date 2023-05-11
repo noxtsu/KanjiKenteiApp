@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         binding.topButtonConfig.setOnClickListener {
-            val intent = Intent(application, WritingPracticeActivity::class.java)
+            val intent = Intent(application, ConfigActivity::class.java)
             startActivity(intent)
         }
 

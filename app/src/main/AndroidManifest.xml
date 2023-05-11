@@ -12,6 +12,9 @@
         android:theme="@style/Theme.KanjiKenteiPracticeApplication"
         tools:targetApi="31">
         <activity
+            android:name=".ConfigActivity"
+            android:exported="false" />
+        <activity
             android:name=".OtherPracticeActivity"
             android:exported="false" />
         <activity
